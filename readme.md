@@ -41,3 +41,14 @@
 1. draw a circle
 1. numpy random
 1. get a random color, get a random radius, get random points(as a tuple)
+
+# #5 translate
+
+# #6 rotate
+
+# #7 resize
+
+1. how to maintain aspect ratio
+1. why is it easier to resize from a larger image to a smaller one
+1. how to resize from a smaller image to a larger one
+1. interpolation methods
