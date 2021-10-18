@@ -20,7 +20,9 @@ cv2.waitKey(0)
 
 ## desctructuring(just like in js)
 list = [764,720,3]
+
 (w,h,c) = list
+
 print(w)
 #### instead of
 print(list[0])
