@@ -1,6 +1,6 @@
 # opencv
 
-##### each image has a number of pixels and those pixels can be manipulated(greyscaled), you can also decrease/increase those pixels
+#### each image has a number of pixels and those pixels can be manipulated(greyscaled), you can also decrease/increase those pixels
 
 ## pixels
 
