@@ -20,7 +20,7 @@
 ##### to create red, we fill red and only red bucket (255, 0 ,0)
 
 ##### grab top left 0,0 coordinate rgb values.
-##### the reason why its BGR and not RGB is because it used to be the standard way of doing it 20 years ago, back when OPENCV was first developer
+##### the reason why its BGR and not RGB is because it used to be the standard way of doing it 20 years ago, back when OPENCV was first developed
 ##### it's a relic that stuck around, changing that would mean breaking all the other applications that have been built with opencv throughout those 20 years.
 (b, g, r) = image[0,0]
 
