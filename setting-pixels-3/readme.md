@@ -66,5 +66,7 @@ w // 2 # = 11 /2 = 5. 10 / 2 = 5
 ## slicing
 
 lst = [6,7,8]
+
 print(lst[0:2]) #would print 6,7
+
 prnt(lst[-1]) #would print 8(last index)
