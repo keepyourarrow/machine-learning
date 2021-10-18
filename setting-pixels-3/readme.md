@@ -15,6 +15,7 @@
 
 ##### represents how much of the color there is in the form of a tuple(red,green,blue)
 **to get white, we fill all buckets with white (255,255,255)** - *because white is the presence of all colors*
+
 **to get black, we fill all buckets with black (0,0,0)** - *because black is the absence of all colors*
 ##### to create red, we fill red and only red bucket (255, 0 ,0)
 
