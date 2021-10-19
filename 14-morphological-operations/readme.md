@@ -28,7 +28,14 @@
 gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 ## structuring element
-#### a shape/a template that helps us perform morphological operations. It goes over the image
+#### A shape/a template that helps us perform morphological operations. It goes over the image
+#### The higher the kernel size (7,7) the more elements are gonna get mixed for consideration of that one centered pixel
+#### The higher the kernel size, the more diluted or eroded it's gonna get
+
+## why are kernel sizes odd numbers (3,3) (5,5) (7,7)
+
+#### so we have this concept of the centered pixel
+
 
 ## erosion (-) symbol
 #### in simple words, eroding means to make foreground of an image smaller

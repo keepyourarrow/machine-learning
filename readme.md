@@ -102,3 +102,20 @@
 1. Morphological gradient
 1. white hat(top hat)
 1. black hat
+1. why are kernel tuples odd numbers (3,3) (5,5) (7,7)
+
+# #15 smoothing,blurring
+
+1. why blur an image
+1. what benefits does it give computers
+1. what kind of images can we blur and smooth
+1. why are kernel tuples odd numbers (3,3) (5,5) (7,7)
+1. different types of blurring
+1. why gaussian blur is better than normal blur and is a standard one to use
+1. Lower level explanation on how normal and gaussian blurring work
+1. Median blur and when to use it
+1. What's salt-and-pepper noise
+1. Bilateral blurring (filtering)
+1. Which filter to use when you want to preserve the edges in the image
+1. Downside to bilateral blurring
+1. cartoon.py
