@@ -88,3 +88,17 @@
 1. circle,rectangle masking
 
 # #13 splitting-merging
+
+# #14 morphological-operations
+
+1. list of morphological operations
+1. structuring element
+1. convert to grayscale
+1. erosion
+1. dilation
+1. opening
+1. getStructuringElement types
+1. closing
+1. Morphological gradient
+1. white hat(top hat)
+1. black hat
