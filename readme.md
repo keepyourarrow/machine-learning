@@ -52,3 +52,26 @@
 1. why is it easier to resize from a larger image to a smaller one
 1. how to resize from a smaller image to a larger one
 1. interpolation methods
+
+# #8 flip
+
+# #9 crop
+
+1. importance of slicing.
+1. numpy slicing
+1. roi = region of interest (for cropping)
+1. numpy slicing image
+
+### python
+* python slicing
+
+# #10 image-arithmetic
+
+1. why its important to know image-aritmhetic
+1. clipping
+1. how subtracting a 100 from an image matrix will make a darger image
+1. how adding a 100 from an image matrix will brighten the image
+1. different ways to add an substract. cv2.add / cv2. subtract and numpy's alternative
+1. which one is less bugg prone and gives more freedom.
+1. how to brighten the image
+1. how to darken the image
