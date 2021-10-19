@@ -69,9 +69,20 @@
 
 1. why its important to know image-aritmhetic
 1. clipping
-1. how subtracting a 100 from an image matrix will make a darger image
+1. how subtracting a 100 from an image matrix will make a darker image
 1. how adding a 100 from an image matrix will brighten the image
 1. different ways to add an substract. cv2.add / cv2. subtract and numpy's alternative
 1. which one is less bugg prone and gives more freedom.
 1. how to brighten the image
 1. how to darken the image
+
+# #11 bitwise
+
+1. the importance
+1. AND, OR, XOR, NOT bitwise operations
+
+# #12 masking
+
+1. masking
+1. bitwise_and
+1. circle,rectangle masking
