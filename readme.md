@@ -86,3 +86,5 @@
 1. masking
 1. bitwise_and
 1. circle,rectangle masking
+
+# #13 splitting-merging
