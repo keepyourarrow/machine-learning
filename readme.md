@@ -119,3 +119,28 @@
 1. Which filter to use when you want to preserve the edges in the image
 1. Downside to bilateral blurring
 1. cartoon.py
+
+# #16 color-spaces
+
+1. Importance of colors
+1. Color spaces, color models
+1. Computer vision will always depend on the quality of the image
+1. Lightning can mean a difference between a success and failure of your computer vision algorithm
+1. What goals to obtain when working with lightning
+1. What is a Stable, Generalizable condition
+1. Controlled environment
+1. A camera doesn't film the object, instead it captures the light reflected off the object(help.png)
+1. BGR2HSV conversion
+1. BGR2LAB conversion
+1. BGR2GRAY conversion
+1. Why greyscale conversion is lit
+1. Explanation on HSV, LAB
+1. Grayscale throws away all the information about the color
+1. Why grayscale images are not black and white images
+1. Formula for calculating grayscale image
+1. Our eyes perceive more red,green than blue
+1. Twice as much green than red, and twice as much red than blue
+1. grayscale_formula_help.png
+
+### python
+* zip
