@@ -158,3 +158,8 @@
 1. Mask
 1. Why we have noise after thresholding
 1. Why is it a pain to use normal thresholding
+
+# #18 adaptive-thresholding
+1. when to use
+1. why other thresholding methods won't work
+1. how it works

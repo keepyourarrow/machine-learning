@@ -47,3 +47,6 @@ p < 200 = 255 (3rd parameter)
 
 ## otsu thresholding
 1. A more preferred way of thresholding, due to adaptivity and automatic selection of the threshold value
+
+#### 2nd argument 0 can be anything, once we specifiy THRESH_OTSU flag, the calculations would be done for us.
+(_, threshInv) = cv2.threshold(blurred, 0, 255,cv2.THRESH_BINARY_INV | cv2.THRESH_OTSU)
