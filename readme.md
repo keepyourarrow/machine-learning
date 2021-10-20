@@ -163,3 +163,9 @@
 1. when to use
 1. why other thresholding methods won't work
 1. how it works
+
+# #19 kernels
+1. convolutions
+1. why kernels are odd
+1. how kernels work on a very low level
+1. how to calculate them ourselves
