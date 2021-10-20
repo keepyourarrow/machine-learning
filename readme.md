@@ -2,6 +2,11 @@
 
 #### python index.py
 
+# Projects to do
+1. document scanner
+1. OCR passport reader
+1. Coins counter
+
 # 1 lesson
 #### basics of argparse
 
@@ -130,9 +135,9 @@
 1. What is a Stable, Generalizable condition
 1. Controlled environment
 1. A camera doesn't film the object, instead it captures the light reflected off the object(help.png)
-1. BGR2HSV conversion
-1. BGR2LAB conversion
-1. BGR2GRAY conversion
+1. BGR2HSV conversion (Convert to HSV)
+1. BGR2LAB conversion (Convert to LAB)
+1. BGR2GRAY conversion (Convert to grayscale)
 1. Why greyscale conversion is lit
 1. Explanation on HSV, LAB
 1. Grayscale throws away all the information about the color
@@ -144,3 +149,12 @@
 
 ### python
 * zip
+
+# #17 basic-thresholding
+
+1. Normal thresholding
+1. Inverse thresholding
+1. Otsu thresholding
+1. Mask
+1. Why we have noise after thresholding
+1. Why is it a pain to use normal thresholding

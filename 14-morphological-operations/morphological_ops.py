@@ -1,5 +1,5 @@
 # USAGE
-# python morphological_ops.py --image pyimagesearch_logo.png
+# python morphological_ops.py --image ./images/pyimagesearch_logo.png
 
 # import the necessary packages
 import argparse
@@ -58,8 +58,8 @@ cv2.destroyAllWindows()
 cv2.imshow("Original", image)
 
 kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (7,7))
-opening = cv2.morphologyEx(gray, cv2.MORPH_CLOSE, kernel)
-cv2.imshow("Closing Final version", opening)
+closing = cv2.morphologyEx(gray, cv2.MORPH_CLOSE, kernel)
+cv2.imshow("Closing Final version", closing)
 cv2.waitKey(0)
 
 
