@@ -169,3 +169,15 @@
 1. why kernels are odd
 1. how kernels work on a very low level
 1. how to calculate them ourselves
+
+# #20 image-gradients
+1. Edge detection vs Thresholding
+1. Importance
+1. How it works
+1. Sobel Kernel
+1. Scharr Kernel
+1. ddepth=cv2.CV_32F
+1. How to convert to 8 bit unsigned integer
+1. When to use Scharr
+1. cv2.addWeighted arguments and how to use, what to plug in for weights, gamma
+1. How to add 2 images
