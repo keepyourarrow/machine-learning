@@ -189,3 +189,5 @@
 1. Gonna use it in document scanner and in many other edge detection algorithms
 1. Non-maxima supression(thinning)
 1. Hysteresis thresholding
+
+# #22 automatic edge-detection
