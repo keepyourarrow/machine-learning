@@ -181,3 +181,11 @@
 1. When to use Scharr
 1. cv2.addWeighted arguments and how to use, what to plug in for weights, gamma
 1. How to add 2 images
+
+# #21 edge-detectors
+1. Canny edge detector
+1. Why Canny and not image gradient
+1. How Canny just uses Soble edge detection and adds up to it.
+1. Gonna use it in document scanner and in many other edge detection algorithms
+1. Non-maxima supression(thinning)
+1. Hysteresis thresholding
