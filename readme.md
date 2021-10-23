@@ -191,3 +191,9 @@
 1. Hysteresis thresholding
 
 # #22 automatic edge-detection
+
+# histograms
+1. boost contrast (equalization)
+1. how to transfer colors between an image to another
+1. When you want to transfer sunset from one image to another
+1. color correction, color matching (#3)
