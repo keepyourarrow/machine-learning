@@ -24,7 +24,7 @@ gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 
 # apply CLAHE (Contrast Limited Adaptive Histogram Equalization)
 print("[INFO] applying CLAHE...")
-clahe = cv2.createCLAHE(clipLimit=2,
+clahe = cv2.createCLAHE(clipLimit=2.0,
 	tileGridSize=(args.tile, args.tile))
 eq = clahe.apply(B)
 eq2 = clahe.apply(G)
