@@ -200,3 +200,9 @@
 1. gamma-correction (#4)
 1. If you need some parts of your image to have a specific color, you can do that(#5)
 1. *IMPORTANT* If you need to tell user that the image is too low contrast
+
+# contours
+1. How to compute center of a contour (shape) (#23)
+1. What is moments in opencv(#23)
+1. How to find radius, area, centroid (moments) (#23)
+1. Contour sorting (#24) When you want to sort objects
