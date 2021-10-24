@@ -1,5 +1,5 @@
 # USAGE
-# python index.py --image images/image_01.png --method "top-to-bottom"
+# python sorting_contours.py --image images/image_01.png --method "top-to-bottom"
 
 # import the necessary packages
 import numpy as np

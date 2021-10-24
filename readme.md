@@ -206,3 +206,5 @@
 1. What is moments in opencv(#23)
 1. How to find radius, area, centroid (moments) (#23)
 1. Contour sorting (#24) When you want to sort objects
+1. template matching (#25)
+1. multi template matching(#26)
