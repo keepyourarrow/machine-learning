@@ -34,9 +34,12 @@ while True:
 	# resize the frame, convert it to grayscale, blur it, and then
 	# perform edge detection
 	frame = imutils.resize(frame, width=450)
+
 	gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+
 	blurred = cv2.GaussianBlur(gray, (5, 5), 0)
-	edged = cv2.Canny(blurred, 30, 150)
+
+	edged = cv2.Canny(blurred, 70, 200)
 
 	# initialize the text and color to indicate that the current
 	# frame is *not* low contrast
@@ -73,6 +76,8 @@ while True:
 
 	# show the output to our screen
 	cv2.imshow("Output", output)
+	cv2.imshow("Output", frame)
+	cv2.imshow("eroded", eroded)
 	key = cv2.waitKey(1) & 0xFF
 
 	# if the `q` key was pressed, break from the loop
