@@ -17,5 +17,7 @@
 1. Extract VISA card information
 1. Passport
 
-# detecting only digits(2)
+# Options
 1. It's possible to detect only digits
+1. It's possible to whitelist, blacklist
+1. Extract meta data and correct it (rotate it, get language information etc) - very important for document detection
